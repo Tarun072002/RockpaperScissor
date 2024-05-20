@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: aliceblue;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.imgs {
+    height: 50px;
+}
+
+.imgs2 {
+    height: 120px;
+    width: 120px;
+    background-color: transparent;
+    border-radius: 60px;
+    border: 3px solid white;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.resett,
+.autoplaybtn {
+    font-size: 20px;
+    margin-left: 50px;
+}
